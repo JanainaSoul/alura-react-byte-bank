@@ -22,6 +22,16 @@ Criando variáveis para cores do projeto
 
 Utilizando propriedades em Componentes estilizados
 
+03 - Refatorações
+
+Porque usar inline styles é algo ruim 
+
+Como usar Heranças de estilo
+
+Sobre possíveis problemas de performance caso um Styled Component seja declarado dentro de um outro componente React
+
+Como tratar de media queries dentro dos componentes estilizados
+
 # Para saber mais
 
 Problemas de Perfornmance
