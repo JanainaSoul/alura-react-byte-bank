@@ -29,7 +29,7 @@ export default ()=> {
         <Extrato />
       </Conteudo>
     </Container>
-  );
+  )
   };
 
 //export default Container;

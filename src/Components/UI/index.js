@@ -45,3 +45,13 @@ export const Saldo = styled.div`
     color: #41d3be;
     font-size: 24px;
 `;
+
+
+export const BtnTema = styled.button`
+position:absolute;
+top: 4vh;
+right: 20px;
+background-color: inherit;
+border: none;
+cursor: pointer;
+`;
