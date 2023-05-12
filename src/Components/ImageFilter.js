@@ -12,7 +12,7 @@ export default (type) => {
         Restaurante: <Icone src={alimentacao} alt="Restaurante"/>,
         Utilidades: <Icone src={utilidades} alt="Utilidades"/>,
         Saude: <Icone src={saude} alt="Saude"/>,
-        Trasnporte: <Icone src={transporte} alt="Transporte"/>,
+        Transporte: <Icone src={transporte} alt="Transporte"/>,
         default: <Icone src={outros} alt="Outros"/>,
     
     };
