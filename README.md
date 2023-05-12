@@ -32,6 +32,16 @@ Sobre possíveis problemas de performance caso um Styled Component seja declarad
 
 Como tratar de media queries dentro dos componentes estilizados
 
+04 - Novo Item
+
+Como compor elementos estilizados para criar novas telas
+
+Vantagens de usar componentes para criar layouts
+
+Utilizando styled components apenas para estilização
+
+Porque evitar o uso de switch-case
+
 # Para saber mais
 
 Problemas de Perfornmance
