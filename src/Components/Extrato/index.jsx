@@ -12,7 +12,7 @@ export const Extrato = ( ) => {
                         <Items key={id} type={type} from={from} value={value} date={date}/> 
                     );
                 })
-            };
+            }
             <Botao> Ver Mais</Botao>
         </Box>
     )

@@ -17,6 +17,6 @@ export default (type) => {
     
     };
 
-    return Images[type] || Images.default;
+    return Images[type] || Images.default
 
 };
