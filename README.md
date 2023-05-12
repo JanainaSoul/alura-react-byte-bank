@@ -42,6 +42,13 @@ Utilizando styled components apenas para estilização
 
 Porque evitar o uso de switch-case
 
+05 - Tema 
+Como organizar os temas do nosso projeto
+
+O que é o ThemeProvider do styledComponents
+
+Como alterar cores de icones SVG usando filters
+
 # Para saber mais
 
 Problemas de Perfornmance
